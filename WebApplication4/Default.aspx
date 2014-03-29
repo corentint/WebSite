@@ -11,7 +11,7 @@
 				padding: 0px;
 				font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
 				background-color: #000;
-				color: #bbbbbb;
+				color: #cccccc;
 			}
 			a:visited, a:active, a:link {
 				text-decoration: none;
