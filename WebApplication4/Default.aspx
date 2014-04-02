@@ -5,7 +5,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 		<title>Coco-WebSite</title>
-		<style>
+		<!--<style>
 			body { 
 				margin: 0px;
 				padding: 0px;
@@ -46,10 +46,10 @@
 			.bigText { 
 				font-size: 16px;
 				line-height: 24px;			}
-		</style>
+		</style>-->
 	</head>
 <body>
-    <!--<form id="form1" runat="server">
+    <form id="form1" runat="server">
     <div>
     
     </div>
@@ -60,8 +60,8 @@
         <br />
         <br />
         <asp:Label ID="Label1" runat="server" Text="Label"></asp:Label>
-    </form>-->
-
+    </form>
+    <!--
     <div id="container"></div>
 
 	<div id="info">
@@ -103,6 +103,6 @@
 	        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
 	    })();
 
-</script>
+</script>-->
 </body>
 </html>
